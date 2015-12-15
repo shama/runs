@@ -1,0 +1,24 @@
+{
+  "name": "runs",
+  "version": "1.0.0",
+  "description": "A simple run loop.",
+  "homepage": "https://github.com/shama/runs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shama/runs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shama/runs/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
