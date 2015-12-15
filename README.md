@@ -57,6 +57,11 @@ Tell the run loop to resume running tasks.
 
 Tell the run loop to cancel the current run.
 
+#### `runs.run([done])`
+
+Start running the tasks queued and call a `done` function when all tasks have
+finished.
+
 ## License
 Copyright (c) 2015 Kyle Robinson Young  
 Licensed under the MIT license.
