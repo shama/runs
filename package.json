@@ -1,6 +1,6 @@
 {
   "name": "runs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple run loop.",
   "homepage": "https://github.com/shama/runs",
   "main": "index.js",
@@ -16,8 +16,7 @@
     "url": "https://github.com/shama/runs/issues"
   },
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^4.2.2"
   }
