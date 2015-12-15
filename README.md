@@ -39,7 +39,7 @@ r.run()
 
 #### `runs = createRuns([customQueue])`
 
-* `customQueue` {Function} File patterns to be matched
+* `customQueue` {Function} A function for custom handling on how tasks get queued.
 
 #### `runs.andThen(task)`
 
