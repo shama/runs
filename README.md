@@ -35,9 +35,9 @@ r.run()
 
 ## API
 
-### `var createRuns = require('runs')`
+### `createRuns = require('runs')`
 
-#### `var runs = createRuns([customQueue])`
+#### `runs = createRuns([customQueue])`
 
 * `customQueue` {Function} File patterns to be matched
 
