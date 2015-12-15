@@ -1,4 +1,4 @@
-# runs
+# runs [![Build Status](http://img.shields.io/travis/shama/runs.svg)](https://travis-ci.org/shama/runs)
 
 A simple run loop.
 
